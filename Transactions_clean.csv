@@ -1,0 +1,353 @@
+Transaction Date,From,To,Transaction Amount,Balance,Description
+2024-12-31T10:26:23', '26658687415', '', 2, 0, TwoPartPaybill
+2024-12-31T10:26:12', '72957', '26658687415', 2, 2, Overdraft Paymfrom 72957 -Redeem FinanServices
+2024-12-28T16:43:57', '26658687415', '', 5, 0, Airtime Purcha
+2024-12-28T16:43:48', '72957', '26658687415', 5, 5, Overdraft Paymfrom 72957 -Redeem FinanServices
+2024-12-28T15:19:47', '26658687415', '', 5, 0, TwoPartPaybill
+2024-12-28T15:19:35', '72957', '26658687415', 5, 5, Overdraft Paymfrom 72957 -Redeem FinanServices
+2024-12-28T13:52:36', '26658687415', '814024', 5, 0, TwoPartPaybill
+2024-12-28T13:52:24', '72957', '26658687415', 1.33, 5, Overdraft Paymfrom 72957 -Redeem FinanServices
+2024-12-28T09:48:21', '26658687415', '', 2, 3.67, TwoPartPaybill
+2024-12-27T14:51:36', '26658687415', '', 4.22, 5.67, Withdrawal Cha
+2024-12-27T14:51:36', '26658687415', '012562', 140, 9.89, Customer WithAt Agent Till 01Wezzy Shop HaMakhalanyane       
+2024-12-27T06:17:18', '26658687415', '', 3, 149.89, TwoPartPaybill
+2024-12-26T19:37:45', '26658687415', '814011', 5, 152.89, Airtime Purcha
+2024-12-26T16:17:06', '26658687415', '26653528550', 94, 162.4, Customer Tranwith withdrawacharge to26653528550Kelane Jubere
+2024-12-26T16:17:06', '26658687415', '', 2.78, 157.89, Customer TranFunds withwithdrawal Chapaid
+2024-12-25T07:21:51', '26658687415', '90465', 1.84, 256.4, Withdrawal Cha
+2024-12-25T07:21:50', '26658687415', '19954', 30, 258.24, Customer WithAt Agent Till 19Penane Tuck S
+2024-12-24T16:41:48', '26658687415', '', 11.76, 288.24, Customer OverPayment to729Redeem FinancServices
+2024-12-24T16:41:46', '26656537535', '26658687415', 300, 300, Funds received26656537535KHAUTAMOKOROANE
+2024-12-24T16:33:53', '26658687415', '', 10, 0, Airtime Purcha
+2024-12-24T16:33:43', '72957', '26658687415', 10, 10, Overdraft Paymfrom 72957 -Redeem FinancServices
+2024-12-24T16:19:03', '26658687415', '', 6.32, 0, Withdrawal Cha
+2024-12-24T16:19:03', '26658687415', '1143722', 450, 6.32, Customer WithAt Agent Till1143722 - SpaShop Jimise
+2024-12-24T16:18:59', '72957', '26658687415', 0.26, 456.32, Overdraft Paymfrom 72957 -Redeem FinancServices
+2024-12-24T16:04:49', '22996', '26658687415', 50, 456.06, M-Pesa AdvancPayment from- NKALIME
+2024-12-24T15:45:15', '', '26658687415', 0, 406.06, Funds received26656980521MATOKA MARGMOKOMA
+2024-12-24T15:42:13', '26653157447', '26658687415', 150, 364.06, Funds received26653157447LIMPHO MOKO
+2024-12-24T15:37:36', '', '26658687415', 0, 214.06, Funds received26656980521MATOKA MARGMOKOMA
+2024-12-21T18:32:23', '26658687415', '', 2.6, 14.06, Customer TranFunds Charge
+2024-12-21T18:32:23', '26658687415', '26653528550', 113, 16.66, Customer Tran26653528550Kelane Jubere
+2024-12-21T14:37:34', '26658687415', '814002', 51, 131.63, TwoPartPaybill
+2024-12-21T14:37:34', '26658687415', '', 1.97, 129.66, Pay Bill Charge
+2024-12-21T14:16:09', '26658687415', '26656143832', 300, 185.54, Customer Tran26656143832Nketu Kelepa
+2024-12-21T14:16:09', '26658687415', '', 3.91, 181.63, Customer TransferFunds Charge
+2024-12-21T10:27:20', '26658687415', '', 6, 485.54, Airtime Purchase
+2024-12-20T18:24:33', '26658687415', '22996', 23, 491.54, Customer AdvancePayment to 22996NKALIME
+2024-12-20T18:20:45', '26658687415', '20483', 85, 517.54, Payment to 20483NUL SRC for202000486
+2024-12-20T18:20:45', '26658687415', '', 3, 514.54, Pay Bill Charge
+2024-12-20T17:44:29', '31149', '26658687415', 600, 602.54, Deposit of Funds atAgent Till 31149 -Tlali Kiosk Agent byTlali KioskAgent\\Ntepelle
+2024-12-19T15:46:54', '26658687415', '', 1.84, 2.54, Withdrawal Charge
+2024-12-19T15:46:54', '26658687415', '104095', 30, 4.38, Customer WithdrawAt Agent Till 10409Container Mafoso
+2024-12-19T15:00:46', '26658687415', '', 3, 34.38, TwoPartPaybill
+2024-12-19T10:36:21', '26658687415', '26656980521', 200, 39.98, Customer Transfer26656980521 -MATOKA MARGRETMOKOMA
+2024-12-19T10:36:21', '26658687415', '', 2.6, 37.38, Customer TransferFunds Charge
+2024-12-19T10:30:14', '104095', '26658687415', 200, 239.98, Deposit of Funds atAgent Till 104095 -Container Mafoso bContainerMafoso\\Mafoso
+2024-12-19T08:49:14', '26658687415', '72957', 22.8, 39.98, Customer OverdrafPayment to72957Redeem FinancialServices
+2024-12-19T08:49:12', '26653182775', '26658687415', 60, 60, Funds received fro26653182775 -KABELORAMATSELISO withwithdrawal charge
+2024-12-19T08:49:12', '26653182775', '26658687415', 0, 62.78, Customer TransferFunds withwithdrawal Chargepaid From26653182775 -KABELORAMATSELISO
+2024-12-18T20:55:26', '26658687415', '', 5, 0, Airtime Purchase
+2024-12-18T20:55:23', '72957', '26658687415', 5, 5, Overdraft Paymentfrom 72957 -Redeem FinancialServices
+2024-12-18T18:16:23', '26658687415', '', 5, 0, Airtime Purchase
+2024-12-18T18:16:19', '72957', '26658687415', 5, 5, Overdraft Paymentfrom 72957 -Redeem FinancialServices
+2024-12-14T19:44:30', '26658687415', '', 10, 0, Airtime Purchase
+2024-12-14T19:44:25', '72957', '26658687415', 10, 10, Overdraft Paymentfrom 72957 -Redeem FinancialServices
+2024-12-14T09:44:24', '26658687415', '', 2, 0, TwoPartPaybill
+2024-12-14T09:44:10', '72957', '26658687415', 0.55, 2, Overdraft Paymentfrom 72957 -Redeem FinancialServices
+2024-12-10T21:07:24', '26658687415', '', 2, 1.45, TwoPartPaybill
+2024-12-10T17:44:31', '26658687415', '206008', 270, 9.77, Customer WithdrawaAt Agent Till 206008Brand Fusion K8 PTYLTD
+2024-12-09T14:26:39', '26658687415', '016509', 400, 286.09, Customer WithdrawaAt Agent Till 016509Makhulong AnimalDrugs TRK2179
+2024-12-09T14:26:39', '26658687415', '', 6.32, 279.77, Withdrawal Charge
+2024-12-09T13:50:52', '26658687415', '104095', 2.78, 686.09, Withdrawal Charge
+2024-12-09T13:50:51', '26658687415', '104095', 70, 688.87, Customer WithdrawaAt Agent Till 104095Container Mafoso
+2024-12-08T20:34:30', '26658687415', '016309', 48, 760.71, Customer WithdrawaAt Agent Till 016309MTT Plumbers
+2024-12-08T14:10:03', '26658687415', '0105959', 30, 810.55, Customer WithdrawaAt Agent Till0105959 -NthabelengSekonyela
+2024-12-08T14:10:03', '26658687415', '', 1.84, 808.71, Withdrawal Charge
+2024-12-08T14:08:10', '26656396726', '26658687415', 670, 840.55, Funds received26656396726Kabelo Ralefek
+2024-12-08T13:48:26', '26658687415', '1032710', 20, 172.39, Customer WithAt Agent Till1032710 - MariCatering
+2024-12-08T13:48:26', '26658687415', '', 1.84, 170.55, Withdrawal Cha
+2024-12-08T11:35:09', '26658687415', '104095', 30, 194.23, Customer WithAt Agent Till 10Container Mafo
+2024-12-08T11:09:34', '26658687415', '', 3, 224.23, TwoPartPaybill
+2024-12-07T19:47:04', '26658687415', '', 20, 227.23, Airtime Purcha
+2024-12-07T07:55:50', '26658687415', '', 3, 247.23, TwoPartPaybill
+2024-12-06T10:57:16', '26658687415', '', 2, 250.23, TwoPartPaybill
+2024-12-04T17:16:34', '26658687415', '90465', 1.84, 252.23, Withdrawal Cha
+2024-12-04T17:16:33', '26658687415', '017510', 11, 254.07, Customer WithAt Agent Till 01MDT ElectronicRepairs
+2024-12-03T14:16:38', '26658687415', '206008', 200, 269.29, Customer WithAt Agent Till 20Brand Fusion KLTD
+2024-12-03T14:16:38', '26658687415', '', 4.22, 265.07, Withdrawal Cha
+2024-12-03T12:03:10', '26657761913', '26658687415', 60, 466.51, Funds received26657761913Mathaha withwithdrawal cha
+2024-12-03T12:03:10', '26657761913', '26658687415', 0, 469.29, Customer TranFunds withwithdrawal Chapaid From26657761913Mathaha
+2024-12-02T18:46:53', '', '26658687415', 0, 854,908.59
+2024-12-02T18:46:53', '26657825929', '26658687415', 400, 400.19, Funds received26657825929THUTO MOHALwithdrawal cha
+2024-12-02T15:13:09', '26658687415', '108980', 20, 2.03, Customer WithdrawaAt Agent Till 108980Nu Luk Fashion
+2024-12-02T15:13:09', '26658687415', '', 1.84, 0.19, Withdrawal Charge
+2024-12-02T13:16:11', '26658687415', '1032710', 35, 23.87, Customer WithdrawaAt Agent Till1032710 - MarinasCatering
+2024-12-02T13:16:11', '26658687415', '', 1.84, 22.03, Withdrawal Charge
+2024-12-02T13:14:02', '26656980521', '26658687415', 22, 58.87, Funds received from26656980521 -MATOKA MARGRETMOKOMA
+2024-12-02T07:22:08', '26658687415', '104095', 30, 41.71, Customer WithdrawaAt Agent Till 104095Container Mafoso
+2024-12-02T07:22:08', '26658687415', '', 1.84, 39.87, Withdrawal Charge
+2024-12-01T15:31:22', '26658687415', '26658687415', 26.84, 71.71, Customer WithdrawaAt Agent Till 94421 -Boundaries GeneralCafe
+2024-12-01T15:31:22', '26658687415', '26658687415', 25, 71.71, Withdrawal Charge
+2024-11-30T08:50:27', '26658687415', '104095', 150, 102.77, Customer WithdrawaAt Agent Till 104095Container Mafoso
+2024-11-30T08:50:27', '26658687415', '', 4.22, 98.55, Withdrawal Charge
+2024-11-30T01:55:11', '26658687415', '814024', 2, 252.77, TwoPartPaybill
+2024-11-29T19:15:33', '26658687415', '', 2.78, 254.77, Withdrawal Charge
+2024-11-29T19:15:33', '26658687415', '1456054', 60, 257.55, Customer WithdrawaAt Agent Till1456054 - Denimprinting shop
+2024-11-29T17:48:58', '26658687415', '', 2, 317.55, TwoPartPaybill
+2024-11-29T09:54:17', '26656768127', '26658687415', 0, 319.55, Customer Transfer ofFunds withwithdrawal Chargepaid From26656768127 -Makhala Ntsekhe
+2024-11-29T09:54:17', '26656768127', '26658687415', 100, 316.77, Funds received fro26656768127 -Makhala Ntsekhewith withdrawalcharge
+2024-11-29T06:31:59', '26658687415', '814024', 2, 216.77, TwoPartPaybill
+2024-11-28T17:27:50', '26658687415', '', 1.16, 218.77, Customer TransferFunds Charge
+2024-11-28T17:27:50', '26658687415', '26657888073', 50, 219.93, Customer Transfer26657888073 - fekmokoma
+2024-11-28T12:23:24', '26658687415', '17158', 60, 272.71, Customer WithdrawAt Agent Till 17158Campus WellnessPharmacy
+2024-11-28T12:23:24', '26658687415', '', 2.78, 269.93, Withdrawal Charge
+2024-11-27T19:41:40', '26658687415', '', 5, 332.71, Airtime Purchase
+2024-11-27T11:53:13', '26658687415', '06977', 20, 339.55, Customer WithdrawAt Agent Till 06977Wenhui Enterprise
+2024-11-27T11:53:13', '26658687415', '', 1.84, 337.71, Withdrawal Charge
+2024-11-27T11:44:06', '26658687415', '26658687415', 102.78, 359.55, Customer WithdrawAt Agent Till 08765Mafosos Spaza Sho
+2024-11-27T11:44:06', '26658687415', '26658687415', 100, 359.55, Withdrawal Charge
+2024-11-27T10:28:59', '26656537535', '26658687415', 300, 462.33, Funds received fro26656537535 -KHAUTAMOKOROANE
+2024-11-27T09:45:04', '26657761913', '26658687415', 110, 158.11, Funds received fro26657761913 - TlaMathaha withwithdrawal charge
+2024-11-27T09:45:04', '26657761913', '26658687415', 0, 162.33, Customer TransferFunds withwithdrawal Chargepaid From26657761913 - TlaMathaha
+2024-11-27T09:34:09', '26658687415', '814024', 2, 48.11, TwoPartPaybill
+2024-11-26T21:41:46', '26658687415', '', 2, 50.11, TwoPartPaybill
+2024-11-26T13:55:05', '94421', '26658687415', 15, 52.11, Deposit of Funds atAgent Till 94421 -Boundaries GeneraCafe by BoundariesGeneralCafe\\Mokakata
+2024-11-26T11:09:14', '26658687415', '26657888073', 38, 38.27, Customer Tran26657888073mokoma
+2024-11-26T11:09:14', '26658687415', '', 1.16, 37.11, Customer TranFunds Charge
+2024-11-25T23:07:21', '26658687415', '814011', 5, 76.27, Airtime Purcha
+2024-11-25T18:08:53', '26658687415', '51453', 60, 83, Paymerchant t51453 - TwinsGeneral DealerA2022/3053 -
+2024-11-25T18:08:53', '26658687415', '', 1.73, 81.27, Pay Merchant C
+2024-11-25T15:41:20', '26656980521', '26658687415', 105, 143, Funds received26656980521MATOKA MARGMOKOMA
+2024-11-25T09:37:20', '26658687415', '', 2, 38, TwoPartPaybill
+2024-11-25T07:29:52', '26658687415', '26657761913', 50, 41.16, Customer Tran26657761913Mathaha
+2024-11-25T07:29:52', '26658687415', '', 1.16, 40, Customer TranFunds Charge
+2024-11-25T06:20:44', '26658687415', '72957', 11.62, 91.16, Customer OverPayment to729Redeem FinancServices
+2024-11-25T06:20:41', '26657825929', '26658687415', 100, 100, Funds received26657825929THUTO MOHALwithdrawal cha
+2024-11-25T06:20:41', '', '26658687415', 0, 15,369.24
+2024-11-24T23:44:03', '26658687415', '814024', 2, 0, TwoPartPaybill
+2024-11-24T23:43:48', '72957', '26658687415', 1.84, 2, Overdraft Paymfrom 72957 -Redeem FinancServices
+2024-11-24T14:10:30', '26658687415', '', 1.84, 0.16, Withdrawal Cha
+2024-11-24T14:10:30', '26658687415', '59076', 18, 2, Customer WithAt Agent Till 59Loveday GenerDealer
+2024-11-24T14:03:01', '', '26658687415', 0, 20, M-Pesa AdvancPayment from- NKALIME
+2024-11-24T11:17:50', '26658687415', '', 2, 0, TwoPartPaybill
+2024-11-24T11:17:20', '72957', '26658687415', 2, 2, Overdraft Paymentfrom 72957 -Redeem FinancialServices
+2024-11-23T16:54:18', '26658687415', '', 6.32, 0, Withdrawal Charge
+2024-11-23T16:54:18', '26658687415', '59076', 400, 6.32, Customer WithdrawAt Agent Till 59076Loveday GeneralDealer
+2024-11-23T16:54:16', '72957', '26658687415', 5.78, 406.32, Overdraft Paymentfrom 72957 -Redeem FinancialServices
+2024-11-23T16:47:37', '11988', '26658687415', 400, 400.54, Deposit of Funds atAgent Till 011988 -Marabe Tuck ShopMarabe TuckShop\\Marabe
+2024-11-23T05:24:39', '26658687415', '', 2, 0.54, TwoPartPaybill
+2024-11-21T13:08:30', '26658687415', '', 2, 2.54, TwoPartPaybill
+2024-11-20T16:13:35', '26658687415', '08765', 4.22, 4.54, Withdrawal Charge
+2024-11-20T16:13:34', '26658687415', '08765', 135, 8.76, Customer WithdrawAt Agent Till 08765Mafosos Spaza Sho
+2024-11-19T10:58:30', '26658687415', '', 6, 143.76, Airtime Purchase
+2024-11-19T10:55:59', '26658687415', '', 19, 149.76, Airtime Purchase
+2024-11-18T13:22:52', '26658687415', '', 1.84, 168.76, Customer TransferFunds withwithdrawal Chargepaid
+2024-11-18T13:22:52', '26658687415', '26653157447', 20, 171.76, Customer Transferwith withdrawalcharge to26653157447 -LIMPHO MOKOMA
+2024-11-18T11:31:42', '', '26658687415', 0, 191.76, Customer TransferFunds withwithdrawal Chargepaid From26657825929 -THUTO MOHALE
+2024-11-18T11:31:42', '26657825929', '26658687415', 50, 189.92, Funds received fro26657825929 -THUTO MOHALE wwithdrawal charge
+2024-11-18T11:18:12', '26658687415', '103218', 110, 144.14, Customer WithAt Agent Till 10Machabe fruitsveg
+2024-11-18T11:18:12', '26658687415', '', 4.22, 139.92, Withdrawal Cha
+2024-11-18T09:04:19', '26658687415', '', 2, 254.14, TwoPartPaybill
+2024-11-17T13:32:04', '26658687415', '', 2, 256.14, TwoPartPaybill
+2024-11-16T21:42:13', '26657825929', '26658687415', 250, 253.92, Funds received26657825929THUTO MOHALwithdrawal cha
+2024-11-16T21:42:13', '26657825929', '26658687415', 0, 258.14, Customer TranFunds withwithdrawal Chapaid From26657825929THUTO MOHAL
+2024-11-16T12:06:33', '26658687415', '', 2, 3.92, TwoPartPaybill
+2024-11-14T09:00:31', '26658687415', '', 2.78, 5.92, Withdrawal Cha
+2024-11-14T09:00:31', '26658687415', '104095', 100, 8.7, Customer WithAt Agent Till 10Container Mafo
+2024-11-13T17:00:26', '26658687415', '', 24, 108.7, TwoPartPaybill
+2024-11-12T09:29:05', '26658687415', '26657888073', 70, 134.43, Customer Tran26657888073mokoma
+2024-11-12T09:29:05', '', '26658687415', 0, 132.7, Customer TranFunds Charge
+2024-11-11T07:02:05', '26658687415', '26658531664', 1.84, 205.59, Customer TranFunds withwithdrawal Chapaid
+2024-11-11T07:02:05', '26658687415', '', 1.16, 204.43, Customer TranFunds Charge
+2024-11-11T07:02:05', '26658687415', '26658531664', 30, 207.43, Customer Tranwith withdrawacharge to26658531664Puleng Moeti
+2024-11-10T18:50:41', '26658687415', '22996', 181.12, 237.43, Customer AdvaPayment to 22NKALIME
+2024-11-10T18:50:39', '', '26658687415', 0, 418.55, Funds received26657825929THUTO MOHALwithdrawal cha
+2024-11-10T13:56:19', '26658687415', '', 2, 214.33, TwoPartPaybill
+2024-11-06T11:45:54', '26658687415', '', 2, 216.33, TwoPartPaybill
+2024-11-03T16:55:54', '26658687415', '', 2, 218.33, TwoPartPaybill
+2024-11-02T12:33:35', '26658687415', '', 1.84, 220.33, Withdrawal Cha
+2024-11-02T12:33:35', '26658687415', '94421', 50, 222.17, Customer WithAt Agent Till 94Boundaries GeCafe
+2024-11-02T12:25:32', '26657128666', '26658687415', 50, 270.33, Funds received26657128666MANTSALONGNTSALONG witwithdrawal cha
+2024-11-02T12:25:32', '', '26658687415', 0, 436,892.39
+2024-11-02T11:49:31', '26658687415', '94421', 50, 222.17, Customer WithAt Agent Till 94Boundaries GeCafe
+2024-11-02T11:49:31', '26658687415', '', 1.84, 220.33, Withdrawal Cha
+2024-11-02T07:41:02', '26658687415', '08765', 50, 274.01, Customer WithAt Agent Till 08Mafosos Spaza
+2024-11-02T07:41:02', '', '26658687415', 0, 85,380.29
+2024-11-01T17:20:00', '26658687415', '26656980521', 200, 326.61, Customer Tran26656980521MATOKA MARGMOKOMA
+2024-11-01T17:20:00', '26658687415', '', 2.6, 324.01, Customer TranFunds Charge
+2024-10-31T08:25:21', '26658687415', '', 2, 526.61, TwoPartPaybill
+2024-10-30T22:39:49', '', '26658687415', 0, 682,645.38
+2024-10-30T22:39:49', '26657825929', '26658687415', 300, 522.29, Funds received26657825929THUTO MOHALwithdrawal cha
+2024-10-29T21:24:56', '26658687415', '', 1.73, 222.29, Customer TransferFunds Charge
+2024-10-29T21:24:56', '26658687415', '26656515848', 80, 224.02, Customer Transfer26656515848 -Sefora Mote
+2024-10-28T07:15:59', '26658687415', '', 2, 304.02, TwoPartPaybill
+2024-10-27T14:48:18', '26656537535', '26658687415', 300, 306.02, Funds received fro26656537535 -KHAUTAMOKOROANE
+2024-10-20T19:27:19', '26658687415', '', 3, 6.02, Pay Bill Charge
+2024-10-20T19:27:19', '26658687415', '20483', 85, 9.02, Payment to 20483NUL SRC for202000486
+2024-10-20T19:23:08', '26658687415', '26658687415', 21.97, 94.02, TwoPartPaybill
+2024-10-20T19:23:08', '26658687415', '26658687415', 20, 94.02, Pay Bill Charge
+2024-10-20T18:31:46', '201836', '26658687415', 30, 115.99, Deposit of Funds atAgent Till 201836 -Lazaros GeneralDealer by LazarosGeneralDealer\\Thabo
+2024-10-18T12:41:49', '26658687415', '', 2.6, 85.99, Customer TransferFunds Charge
+2024-10-18T12:41:49', '26658687415', '26658599899', 200, 88.59, Customer Transfer26658599899 -Retselisitsoe Tauto
+2024-10-18T12:38:48', '104095', '26658687415', 230, 288.59, Deposit of Funds atAgent Till 104095 -Container Mafoso bContainerMafoso\\Mafoso
+2024-10-18T09:51:56', '26658687415', '', 2, 58.59, TwoPartPaybill
+2024-10-17T12:37:42', '26658687415', '17158', 100, 63.37, Customer WithdrawAt Agent Till 17158Campus WellnessPharmacy
+2024-10-17T12:37:42', '26658687415', '', 2.78, 60.59, Withdrawal Charge
+2024-10-16T18:13:36', '26656980521', '26658687415', 55, 163.37, Funds received fro26656980521 -MATOKA MARGRETMOKOMA
+2024-10-15T18:57:23', '26658687415', '', 3.91, 108.37, Customer TransferFunds Charge
+2024-10-15T18:57:23', '26658687415', '26658599899', 300, 112.28, Customer Transfer26658599899 -Retselisitsoe Tauto
+2024-10-15T09:38:58', '', '26658687415', 0, 412.28, Deposit of FundsAgent Till 20183Lazaros GeneralDealer by LazarosGeneralDealer\\Thabo
+2024-10-14T18:33:06', '', '26658687415', 0, 312.28, Deposit of FundsAgent Till 59076Loveday GeneralDealer by LovedaGeneralDealer\\Thabang
+2024-10-09T13:41:51', '26658687415', '26653157447', 40, 113.44, Customer Transf26653157447 -LIMPHO MOKOM
+2024-10-09T13:41:51', '26658687415', '', 1.16, 112.28, Customer TransfFunds Charge
+2024-10-09T13:40:47', '22996', '26658687415', 150, 153.44, M-Pesa AdvancePayment from 22- NKALIME
+2024-10-09T11:54:23', '26658687415', '90465', 45, 5.28, Customer WithdrAt Agent Till 104Container Mafoso
+2024-10-09T11:54:22', '26658687415', '', 1.84, 3.44, Withdrawal Charg
+2024-10-08T13:32:48', '26658687415', '', 2, 50.28, TwoPartPaybill
+2024-10-07T13:18:06', '26658687415', '', 4.22, 52.28, Withdrawal Charg
+2024-10-07T13:18:06', '26658687415', '0106484', 200, 56.5, Customer WithdrAt Agent Till0106484 - SimaCommunicationMohales Hoek
+2024-10-07T13:06:41', '', '26658687415', 0, 330,772.13
+2024-10-05T14:31:43', '26658687415', '', 38, 52.28, Paymerchant to011478 - New YoCity - 1
+2024-10-04T18:41:58', '26658687415', '011478', 38, 90.28, Paymerchant to011478 - New YoCity - 1
+2024-10-03T14:51:05', '26658687415', '', 1.73, 128.28, Customer TransfFunds Charge
+2024-10-03T14:51:05', '26658687415', '26656980521', 60, 130.01, Customer Transf26656980521 -MATOKA MARGRMOKOMA
+2024-10-03T10:40:32', '26658687415', '', 700, 199.57, Customer WithdrAt Agent Till 206Brand Fusion K8LTD
+2024-10-03T10:40:32', '', '26658687415', 0, 792.74, Withdrawal Charge
+2024-10-03T09:20:32', '26658687415', '206008', 600, 909.13, Customer WithdrawAt Agent Till 20600Brand Fusion K8 PTLTD
+2024-10-03T09:20:32', '26658687415', '', 9.56, 899.57, Withdrawal Charge
+2024-10-02T19:34:51', '26658687415', '', 1.84, 1,509.13
+2024-10-02T19:34:51', '26658687415', '017510', 20, 1,510.97
+2024-10-02T17:04:02', '26658687415', '1507778', 30, 1,532.81
+2024-10-02T17:04:02', '26658687415', '', 1.84, 1,530.97
+2024-10-02T16:47:12', '1032710', '26658687415', 1,400, 1
+2024-10-02T15:47:07', '26658687415', '', 2, 162.81, TwoPartPaybill
+2024-10-02T14:02:43', '26658687415', '104095', 20, 166.65, Customer WithdrawAt Agent Till 10409Container Mafoso
+2024-10-02T14:02:43', '26658687415', '', 1.84, 164.81, Withdrawal Charge
+2024-09-30T16:33:51', '26658687415', '22996', 114.05, 186.65, Customer AdvancePayment to 22996NKALIME
+2024-09-30T16:30:30', '', '26658687415', 0, 300.7, Deposit of Funds atAgent Till 141508 -Aston General Cafeby Aston GeneralCafe\\Aston
+2024-09-28T19:12:17', '26658687415', '22996', 55, 0.7, Customer AdvancePayment to 22996NKALIME
+2024-09-28T19:07:30', '26656980521', '26658687415', 55, 55.7, Funds received fro26656980521 -MATOKA MARGRETMOKOMA
+2024-09-19T23:36:43', '26658687415', '814024', 3, 0.7, TwoPartPaybill
+2024-09-18T20:53:31', '26658687415', '26658687415', 88, 3.7, Payment to 20483NUL SRC for202000486
+2024-09-18T20:53:31', '26658687415', '26658687415', 85, 3.7, Pay Bill Charge
+2024-09-18T20:50:52', '1078', '26658687415', 90, 91.7, External custometransfer to RegistCustomer from -01078 - NationalPayment SwitchAccount
+2024-09-18T09:21:27', '26658687415', '26658687415', 96.73, 1.7, Customer Transf26656980521 -MATOKA MARGRMOKOMA
+2024-09-18T09:21:27', '26658687415', '26658687415', 95, 1.7, Customer TransfFunds Charge
+2024-09-18T09:11:24', '26658687415', '', 1.84, 98.43, Withdrawal Charg
+2024-09-18T09:11:24', '26658687415', '104095', 50, 100.27, Customer WithdrAt Agent Till 104Container Mafoso
+2024-09-18T09:04:34', '59076', '26658687415', 150, 150.27, Deposit of FundsAgent Till 59076Loveday GeneralDealer by LovedaGeneralDealer\\Thabang
+2024-09-09T11:34:43', '26658687415', '', 6.32, 0.27, Withdrawal Charg
+2024-09-09T11:34:43', '26658687415', '1147152', 370, 6.59, Customer WithdrAt Agent Till1147152 - BonAppetit
+2024-09-08T18:33:32', '26656980521', '26658687415', 105, 376.59, Funds received fr26656980521 -MATOKA MARGRMOKOMA
+2024-09-07T21:25:54', '26658687415', '109877', 60, 271.59, Paymerchant to109877 - KhutsoLodge - bar
+2024-09-04T06:27:05', '26658687415', '814024', 20, 331.59, TwoPartPaybill
+2024-09-02T17:17:24', '1017022', '26658687415', 300, 351.59, Deposit of FundsAgent Till 10170Pop Up With Us bPop Up With 
+2024-08-31T19:10:43', '26657888073', '26658687415', 50, 51.59, Funds received fr26657888073 - fmokoma
+2024-08-24T15:44:29', '26658687415', '201836', 40, 3.43, Customer WithdrAt Agent Till 201Lazaros GeneralDealer
+2024-08-24T15:44:29', '26658687415', '', 1.84, 1.59, Withdrawal Charg
+2024-08-24T08:43:04', '26658687415', '', 1.84, 43.43, Withdrawal Charg
+2024-08-24T08:43:04', '26658687415', '104095', 35, 45.27, Customer WithdrawAt Agent Till 10409Container Mafoso
+2024-08-24T08:26:22', '26657761913', '26658687415', 0, 80.27, Customer TransferFunds withwithdrawal Chargepaid From26657761913 - TlaMathaha
+2024-08-24T08:26:22', '26657761913', '26658687415', 35, 78.43, Funds received fro26657761913 - TlaMathaha withwithdrawal 
+2024-08-22T19:20:10', '26658687415', '26658687415', 101.73, 43.43, Customer Transfer26658751371 -MAMONAHENGTHABANA
+2024-08-22T19:20:10', '26658687415', '26658687415', 100, 43.43, Customer TransferFunds Charge
+2024-08-22T19:18:49', '', '26658687415', 0, 145.16, M-Pesa AdvancePayment from 229- NKALIME
+2024-08-21T16:07:07', '26658687415', '', 6, 5.16, Airtime Purchase
+2024-08-18T19:42:18', '26658687415', '', 3, 11.16, Pay Bill Charge
+2024-08-18T19:42:18', '26658687415', '20483', 85, 14.16, Payment to 20483NUL SRC for202000486
+2024-08-18T19:40:00', '26656980521', '26658687415', 30, 99.16, Funds received fro26656980521 -MATOKA MARGRETMOKOMA
+2024-08-18T17:25:55', '26658687415', '22996', 24.15, 69.16, Customer AdvancePayment to 22996NKALIME
+2024-08-18T17:25:53', '1078', '26658687415', 100, 100, External customertransfer to RegisterCustomer from -01078 - NationalPayment SwitchAccount
+2024-08-14T05:26:48', '26658687415', '814011', 19, 0, Airtime Purchase
+2024-08-14T05:26:45', '72957', '26658687415', 5.19, 19, Overdraft Paymentfrom 72957 -Redeem FinancialServices
+2024-08-13T02:33:37', '26658687415', '814024', 3, 13.81, TwoPartPaybill
+2024-08-08T19:49:15', '26658687415', '', 19, 16.81, Airtime Purchas
+2024-08-08T13:21:25', '26658687415', '', 5, 35.81, TwoPartPaybill
+2024-08-07T17:13:04', '26658687415', '', 2.78, 40.81, Withdrawal Char
+2024-08-07T17:13:04', '26658687415', '94421', 100, 43.59, Customer WithdAt Agent Till 94Boundaries GenCafe
+2024-08-06T20:14:17', '26658687415', '', 20, 143.59, Airtime Purchas
+2024-08-06T12:05:18', '26658687415', '26657885311', 100, 165.32, Customer Trans26657885311 -RALIKOTO MOK
+2024-08-06T12:05:18', '26658687415', '', 1.73, 163.59, Customer TransFunds Charge
+2024-08-06T12:03:26', '26658687415', '26658687415', 103.21, 265.32, TwoPartPaybill
+2024-08-06T12:03:26', '26658687415', '26658687415', 100, 265.32, Pay Bill Charge
+2024-08-06T11:44:05', '201836', '26658687415', 200, 368.53, Deposit of FundAgent Till 2018Lazaros GeneralDealer by LazaroGeneralDealer\\Thabo
+2024-08-05T15:59:53', '26658687415', '', 1.84, 168.53, Withdrawal Char
+2024-08-05T15:59:53', '26658687415', '1018007', 30, 170.37, Customer WithdAt Agent Till1018007 - TrueBusiness
+2024-08-03T14:50:49', '', '26658687415', 0, 200.37, Funds received f26659599848 -Nneko Lefata
+2024-08-03T12:00:14', '26658687415', '', 21, 0.37, Airtime Purchas
+2024-08-03T11:58:39', '104095', '26658687415', 20, 21.37, Deposit of FundAgent Till 1040Container MafosContainerMafoso\\Mafoso
+2024-08-02T10:06:13', '26658687415', '', 3, 1.37, TwoPartPaybill
+2024-08-01T12:16:00', '26658687415', '', 20, 4.37, TwoPartPaybill
+2024-08-01T12:09:44', '26658687415', '104095', 145, 28.59, Customer WithdAt Agent Till 10Container Mafos
+2024-08-01T12:09:44', '26658687415', '', 4.22, 24.37, Withdrawal Char
+2024-08-01T11:07:33', '26658558859', '26658687415', 150, 173.59, Funds received26658558859MATLALI MATH
+2024-08-01T10:21:01', '26658687415', '104095', 100, 26.37, Customer WithAt Agent Till 10Container Mafo
+2024-08-01T10:21:01', '26658687415', '', 2.78, 23.59, Withdrawal Cha
+2024-08-01T09:12:07', '26658687415', '', 17, 126.37, Airtime Purcha
+2024-07-31T18:49:03', '26658687415', '', 1.84, 143.37, Withdrawal Cha
+2024-07-31T18:49:03', '26658687415', '017380', 35, 145.21, Customer WithAt Agent Till 01Sekhoali s kios
+2024-07-31T18:30:53', '26658558859', '26658687415', 35, 180.21, Funds received26658558859MATLALI MATH
+2024-07-31T18:17:26', '26658687415', '105054', 80, 147.99, Customer WithAt Agent Till 10Taliana Mokho
+2024-07-31T18:13:31', '26658687415', '814024', 2, 227.99, TwoPartPaybill
+2024-07-31T11:45:44', '26658687415', '08765', 200, 234.21, Customer WithAt Agent Till 08Mafosos Spaza
+2024-07-31T11:45:44', '26658687415', '', 4.22, 229.99, Withdrawal Cha
+2024-07-31T11:28:27', '26658687415', '26658687415', 103.21, 434.21, TwoPartPaybill
+2024-07-31T11:28:27', '26658687415', '26658687415', 100, 434.21, Pay Bill Charge
+2024-07-30T17:08:22', '26658687415', '', 20, 537.42, Airtime Purcha
+2024-07-29T18:21:27', '26658687415', '', 1.84, 557.42, Withdrawal Cha
+2024-07-29T18:21:27', '26658687415', '106657', 50, 559.26, Customer WithAt Agent Till 10MD Moeti
+2024-07-29T14:34:08', '26658687415', '26658687415', 21.84, 610.42, Customer Tranwith withdrawacharge to26657888073mokoma
+2024-07-29T14:34:08', '26658687415', '', 1.16, 609.26, Customer TranFunds Charge
+2024-07-29T14:34:08', '26658687415', '26658687415', 20, 610.42, Customer TranFunds withwithdrawal Chapaid
+2024-07-29T08:43:20', '26658687415', '', 5, 632.26, TwoPartPaybill
+2024-07-28T18:42:21', '', '26658687415', 0, 637.26, Deposit of FundsAgent Till 01060Phokeng GeneralCafe TR 44915 byPhokeng GeneralCafe TR44915\\Masilo
+2024-07-28T11:43:06', '26658687415', '', 2, 537.26, TwoPartPaybill
+2024-07-27T19:47:22', '26658687415', '', 1.84, 539.26, Withdrawal Charg
+2024-07-27T19:47:22', '26658687415', '017380', 50, 541.1, Customer WithdrAt Agent Till 017Sekhoali s kiosk
+2024-07-27T14:23:19', '26658687415', '', 19, 591.1, Airtime Purchase
+2024-07-26T16:23:14', '', '26658687415', 0, 610.1, Deposit of FundsAgent Till 01035Shop by EShop\\Lepota
+2024-07-26T12:09:57', '26656537535', '26658687415', 300, 310.1, Funds received fr26656537535 -KHAUTAMOKOROANE
+2024-07-24T14:20:54', '26658687415', '', 4.22, 10.1, Withdrawal Charg
+2024-07-24T14:20:54', '26658687415', '90465', 250, 14.32, Customer WithdrAt Agent Till 017MDT Electronic aRepairs
+2024-07-23T21:55:25', '26658687415', '', 20, 264.32, Airtime Purchase
+2024-07-23T19:07:32', '26658687415', '1903', 10, 286.16, Customer WithdrAt Agent Till 190Big Fellas TheGentlemens Lou
+2024-07-23T19:07:32', '26658687415', '', 1.84, 284.32, Withdrawal Charg
+2024-07-23T18:38:43', '26658687415', '', 2, 296.16, TwoPartPaybill
+2024-07-22T18:22:28', '26658687415', '72957', 1.84, 298.16, Customer OverdrPayment to7295Redeem FinanciaServices
+2024-07-22T18:22:26', '13956', '26658687415', 300, 300, Deposit of FundsAgent Till 01395NDAH GENERALby NDAH GENERCAFE\\Noziphoso
+2024-07-18T20:00:09', '26658687415', '', 20, 0, Airtime Purchase
+2024-07-17T21:33:49', '22996', '26658687415', 20, 20, M-Pesa AdvancePayment from 229- NKALIME
+2024-07-14T16:56:15', '26658687415', '', 3.91, 0, Customer TransferFunds Charge
+2024-07-14T16:56:15', '26658687415', '26658599899', 500, 3.91, Customer Transfer26658599899 -Retselisitsoe Tauto
+2024-07-14T16:56:11', '72957', '26658687415', 1.59, 503.91, Overdraft Paymentfrom 72957 -Redeem FinancialServices
+2024-07-14T16:53:39', '26657885311', '26658687415', 10, 502.32, Funds received fro26657885311 -RALIKOTO MOKOM
+2024-07-14T10:24:03', '26658687415', '104095', 10, 494.16, Customer WithdrawAt Agent Till 10409Container Mafoso
+2024-07-14T10:24:03', '', '26658687415', 0, 72,238.63
+2024-07-12T15:58:34', '26658687415', '', 2, 504.16, TwoPartPaybill
+2024-07-12T14:15:00', '26658687415', '104095', 140, 510.38, Customer WithdrawAt Agent Till 10409Container Mafoso
+2024-07-12T12:56:47', '314319', '26658687415', 100, 650.38, Deposit of Funds atAgent Till 314319 -Thereza Mini Foodsby Thereza MiniFoods\\Akhente
+2024-07-11T16:12:56', '26658687415', '90465', 1.84, 550.38, Withdrawal Charge
+2024-07-11T16:12:55', '26658687415', '0102795', 40, 552.22, Customer WithdrawAt Agent Till0102795 - MobileAgent Selomo
+2024-07-09T14:08:26', '26658687415', '90465', 20, 594.06, Customer WithdrawAt Agent Till 10409Container Mafoso
+2024-07-09T14:08:25', '26658687415', '', 1.84, 592.22, Withdrawal Charge
+2024-07-09T12:10:57', '26658687415', '', 2, 614.06, TwoPartPaybill
+2024-07-08T17:46:02', '26658687415', '', 1.84, 616.06, Withdrawal Charge
+2024-07-08T17:46:02', '26658687415', '08765', 20, 617.9, Customer WithdrawAt Agent Till 08765Mafosos Spaza Sho
+2024-07-08T16:08:26', '300030', '26658687415', 600, 637.9, Deposit of Funds atAgent Till 300030 -TFMK Snack Bar byTFMK SnackBar\\Lineo
+2024-07-07T15:07:50', '26658687415', '', 1.84, 37.9, Withdrawal Charge
+2024-07-07T15:07:49', '26658687415', '08765', 50, 39.74, Customer WithdrawAt Agent Till 08765Mafosos Spaza Sho
+2024-07-07T14:41:11', '26658687415', '', 2, 89.74, TwoPartPaybill
+2024-07-05T17:09:34', '26658687415', '', 2, 91.74, TwoPartPaybill
+2024-07-05T14:59:04', '26658687415', '', 1.84, 93.74, Withdrawal Charge
+2024-07-05T14:59:04', '26658687415', '014005', 50, 95.58, Customer WithdrawAt Agent Till 01400Health link Pharmac
+2024-07-04T18:46:12', '26658687415', '1903', 10, 147.42, Customer WithdrawAt Agent Till 1903 -Big Fellas TheGentlemens Loung
+2024-07-04T18:46:12', '26658687415', '', 1.84, 145.58, Withdrawal Charge
+2024-07-04T08:06:35', '26658687415', '', 1.84, 157.42, Withdrawal Charge
+2024-07-04T08:06:35', '26658687415', '44002', 50, 159.26, Customer WithdrawAt Agent Till 44002Ntsanes Kiosk
+2024-07-04T07:46:16', '1078', '26658687415', 200, 209.26, External customertransfer to RegistereCustomer from -01078 - NationalPayment SwitchAccount
+2024-07-02T20:12:48', '26658687415', '26658687415', 204.86, 9.26, TwoPartPaybill
+2024-07-02T20:12:48', '26658687415', '26658687415', 200, 9.26, Pay Bill Charge
+2024-07-02T20:11:10', '26658751371', '26658687415', 30, 214.12, Funds received from26658751371 -MAMONAHENGTHABANA
+2024-07-02T16:25:24', '26658687415', '', 2.78, 184.12, Withdrawal Charge
+2024-07-02T16:25:24', '26658687415', '104095', 80, 186.9, Customer WithdrawAt Agent Till 10409Container Mafoso
