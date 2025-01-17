@@ -68,6 +68,7 @@ def cleanData(csv_path):
     TransactionsCSV.to_csv("Transactions_functionTestclean.csv", index=False)
     return TransactionsCSV  # Return the DataFrame for further use
 
+# A function to plot the Balance against Transaction Amount
 def balanceAgainstTransactionAmount(cleanTransactions):
         # Ensure the necessary columns are numeric for plotting
     cleanTransactions['Transaction Amount'] = pd.to_numeric(cleanTransactions['Transaction Amount'], errors='coerce')
@@ -86,6 +87,8 @@ def balanceAgainstTransactionAmount(cleanTransactions):
     st.pyplot(plt)
 
     # a function to Plot TransactionIn and TransactionOut against Transaction Date
+
+# A functionto to plot Transaction In and Out against Transaction Date
 def TInAndTOutAgainstTDate(cleanTransactions):
         # Drop rows with missing or invalid 'Transaction Date' after parsing
     cleanTransactions = cleanTransactions.dropna(subset=['Transaction Date'])
@@ -117,6 +120,135 @@ def TInAndTOutAgainstTDate(cleanTransactions):
     plt.tight_layout()
     plt.show()
     st.pyplot(plt)
+
+# A function to plot the Balance against the Transaction Date
+def balanceAgainstTime(cleanTransactions):
+    # Ensure 'Transaction Date' is a datetime object
+    cleanTransactions['Transaction Date'] = pd.to_datetime(cleanTransactions['Transaction Date'], errors='coerce')
+
+# Drop rows with missing or invalid values
+    cleanTransactions = cleanTransactions.dropna(subset=['Transaction Date', 'Balance'])
+    # Ensure 'Balance' is numeric
+    cleanTransactions['Balance'] = pd.to_numeric(cleanTransactions['Balance'], errors='coerce')
+
+    # Debug: Check cleaned data before plotting
+    print("Cleaned DataFrame:")
+    print(cleanTransactions[['Transaction Date', 'Balance']].head())
+
+    # Plot Balance against Transaction Date
+    plt.figure(figsize=(10, 6))
+    plt.plot(cleanTransactions['Transaction Date'], cleanTransactions['Balance'], label='Balance', marker='o', linestyle='-', alpha=0.8, color='blue')
+
+     # Format the x-axis to display dates properly
+    plt.gca().xaxis.set_major_locator(mdates.AutoDateLocator())
+    plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%Y-%m-%d'))
+
+    # Add labels, title, and grid
+    plt.title('Balance vs. Transaction Date')
+    plt.xlabel('Transaction Date')
+    plt.ylabel('Balance')
+    plt.grid(True)
+    plt.legend()
+    plt.xticks(rotation=45)
+
+    # Display the plot in Streamlit
+    st.pyplot(plt.gcf())
+
+# A function to plot Number of Transactions Per Week
+    # Sum of TransactionIn Per Week
+    # Sum of TransactionOut Per Week
+    # Number of Transactions Per Month
+    # Sum of TransactionIn Per Month
+    # Sum of TransactionOut Per Month
+def transactionAnalysis(cleanTransactions):
+        # Ensure 'Transaction Date' is a datetime object
+    cleanTransactions['Transaction Date'] = pd.to_datetime(cleanTransactions['Transaction Date'], errors='coerce')
+
+    # Drop rows with missing or invalid values in 'Transaction Date'
+    cleanTransactions = cleanTransactions.dropna(subset=['Transaction Date'])
+
+
+    # Ensure numeric columns for TransactionIn and TransactionOut
+    cleanTransactions['TransactionIn'] = pd.to_numeric(cleanTransactions['TransactionIn'], errors='coerce')
+    cleanTransactions['TransactionOut'] = pd.to_numeric(cleanTransactions['TransactionOut'], errors='coerce')
+
+    # Fill missing values in TransactionIn and TransactionOut
+    cleanTransactions['TransactionIn'] = cleanTransactions['TransactionIn'].fillna(0)
+    cleanTransactions['TransactionOut'] = cleanTransactions['TransactionOut'].fillna(0)
+
+
+    # --- Weekly Aggregations ---
+    weekly_data = cleanTransactions.groupby(cleanTransactions['Transaction Date'].dt.to_period('W'))
+    transactions_per_week = weekly_data.size()  # Count transactions per week
+    transaction_in_per_week = weekly_data['TransactionIn'].sum()  # Sum TransactionIn per week
+    transaction_out_per_week = weekly_data['TransactionOut'].sum()  # Sum TransactionOut per week
+
+    # --- Monthly Aggregations ---
+    monthly_data = cleanTransactions.groupby(cleanTransactions['Transaction Date'].dt.to_period('M'))
+    transactions_per_month = monthly_data.size()  # Count transactions per month
+    transaction_in_per_month = monthly_data['TransactionIn'].sum()  # Sum TransactionIn per month
+    transaction_out_per_month = monthly_data['TransactionOut'].sum()  # Sum TransactionOut per month
+
+    # --- Bar Chart for Transactions Per Week ---
+    plt.figure(figsize=(12, 6))
+    transactions_per_week.plot(kind='bar', color='lightgreen', alpha=0.8)
+    plt.title('Number of Transactions Per Week')
+    plt.xlabel('Week')
+    plt.ylabel('Number of Transactions')
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    st.pyplot(plt)
+
+    # --- Bar Chart for TransactionIn Per Week ---
+    plt.figure(figsize=(12, 6))
+    transaction_in_per_week.plot(kind='bar', color='blue', alpha=0.8)
+    plt.title('Sum of TransactionIn Per Week')
+    plt.xlabel('Week')
+    plt.ylabel('TransactionIn Amount')
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    st.pyplot(plt)
+
+    # --- Bar Chart for TransactionOut Per Week ---
+    plt.figure(figsize=(12, 6))
+    transaction_out_per_week.plot(kind='bar', color='red', alpha=0.8)
+    plt.title('Sum of TransactionOut Per Week')
+    plt.xlabel('Week')
+    plt.ylabel('TransactionOut Amount')
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    st.pyplot(plt)
+
+    # --- Bar Chart for Transactions Per Month ---
+    plt.figure(figsize=(12, 6))
+    transactions_per_month.plot(kind='bar', color='coral', alpha=0.8)
+    plt.title('Number of Transactions Per Month')
+    plt.xlabel('Month')
+    plt.ylabel('Number of Transactions')
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    st.pyplot(plt)
+
+    # --- Bar Chart for TransactionIn Per Month ---
+    plt.figure(figsize=(12, 6))
+    transaction_in_per_month.plot(kind='bar', color='blue', alpha=0.8)
+    plt.title('Sum of TransactionIn Per Month')
+    plt.xlabel('Month')
+    plt.ylabel('TransactionIn Amount')
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    st.pyplot(plt)
+
+    # --- Bar Chart for TransactionOut Per Month ---
+    plt.figure(figsize=(12, 6))
+    transaction_out_per_month.plot(kind='bar', color='red', alpha=0.8)
+    plt.title('Sum of TransactionOut Per Month')
+    plt.xlabel('Month')
+    plt.ylabel('TransactionOut Amount')
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    st.pyplot(plt)
+
 #################################################################################################
 
 st.title("M-Pesa statement Analyzer")
@@ -132,6 +264,8 @@ if uploadFile is not None:
         st.write(cleaned_data)  # Display the cleaned DataFrame
         Balance_and_TAmout = balanceAgainstTransactionAmount(cleaned_data) # plot the balance Against Transaction Amount plot
         TransactionIn_and_TransactionOut = TInAndTOutAgainstTDate(cleaned_data)
+        balance_Against_Time = balanceAgainstTime(cleaned_data)
+        Transaction_Analysis = transactionAnalysis(cleaned_data)
         
 
 
