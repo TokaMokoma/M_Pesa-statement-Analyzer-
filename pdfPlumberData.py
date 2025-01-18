@@ -270,6 +270,4 @@ if uploadFile is not None:
 
 
 
-# st.title("Hello, Streamlit!")
-# st.write("Welcome to your first Streamlit app.")
-# st.text_input("Enter your name:")
+
